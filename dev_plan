@@ -1,0 +1,53 @@
+Create first piece of land map in unity for the vikingr to start his journey
+Create a script for the raven and the vikingr so "Odin" can explain how to play the game
+ - Create a help and tutorials menu
+Create an amount of crops and set up their properties:
+ - Prices for seeds
+ - Prices for the fully Grown Crops
+ - Growth time for crops
+Create textures for crops:
+ - Seeds Tile in the menu for buying
+ - Seed Tile for in the Ground
+ - Middle Stage Tile for the ground
+ - Final Tile for ground
+ - Final Tile for Menu for selling
+Create tools and set their properties:
+ - Decide on an amount of tools available
+ - Decide on there properties:
+   - Attack Damage (Weapons)
+   - Range (Tools & Weapons)
+   - Upgrade Costs
+ - Create Textures for tools:
+   - Tiles for in the menus
+   - Tiles in while in use
+Decide on different menu options
+Decide on achievements within the game
+Decide on how big the village will be:
+  - Names of characters
+  - Look of characters
+  - What will it take to gain their loyalty
+  - What they do:
+    - Blacksmith
+    - Builder
+    - Teacher
+    - Chief
+    - Saga Writer
+Decide on different countries will be in the game:
+  - Raiding oppurtunities and rewards.
+  - Will it be a single city country or multiple cities:
+    - England will be multiple cities:
+      - Northumbria
+      - Wessex
+      - East Anglia
+      - Mercia
+      - Pikes
+      - Britons
+Decide on specific time period for the game so it can be historically accurate with names of kings and characters within the game.
+Develop the main character:
+ - Look of the character
+ - Make in GIMP
+ - Setup and code character in Unity
+Scripts:
+ - Villagers
+ - Chief
+ - Kings of raided countries
