@@ -1,0 +1,34 @@
+You will start off on your own plot of land where you will have a set amount of coins
+A raven will come and explain all aspects of the game to you and the raven will be "Odin"
+With these coins you will be able to buy seeds to grow crops which you will use to sell to the market or use for food.
+You will be able to build buildings with resources and coins by paying a third party
+These buildings will allow you to unlock certain types of farming e.g. Barn to hold animals
+Within the first week you will need to meet the towns chief and swear fealty to him and offer him a tribute (money)
+As you gain more money you will be able to gain allies within the village
+When you gain a certain amount of allies you will be able to raid neighbouring countries in certain times of year.
+Eventually you will buy boats and sail west to european staples like England and France to raid when your influence is big enough
+Each place will have a wild animal that you will be able to slay and take a trophy from to prove strength which will help increase loyalty between followers
+
+On your farm you will be able to do these activities:
+  - Farm a variety of crops will be available to see in the crops_plan file
+  - Fish on a boat. Plan for fishing in fishing_plan file
+  - Raise animals. Plan in animals_plan
+  - Resource Gathering, Available throughout the map. Plan in resources_plan
+  - Building, Building new property on your farm for certain things. plan in buildings_plan
+  
+Plan for Allies:
+  - You will first pledge fealty with the cheif of the village
+  - Villagers within the community will be available to gain alliances through certain activities plan in villagers_plan
+  - Leaders of raided communities plan for these communities will be available in the raiding_plan
+  
+Raiding Plan will be available in Raiding_Plan which will include what you need to raid certain places and rewards available.
+
+Wild Animals will be available in places_plan which will link in with the raiding_plan
+
+Development Plan will be available at dev_plan and on Trello
+
+Tools Plan will be available at tools_plan and will include weapons, tools for farming, upgrades, armor
+
+Norse Mythology Crossovers plan will be available at norse_plan will include gods and plans for their integration into the game.
+
+Achievement Plan available at goals_plan
